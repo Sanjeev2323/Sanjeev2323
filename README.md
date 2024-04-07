@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanjeev2323
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning node js
+- 👀 I’m interested in android app development
+- 🌱 I’m currently working in kotlin native android app development
 
 
 <!---
